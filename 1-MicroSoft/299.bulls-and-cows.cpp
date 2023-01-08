@@ -14,4 +14,4 @@ public:
         for(int i = 0;i<10;i++)cows+=min(digits1[i],digits2[i]);
         return to_string(bulls)+"A"+to_string(cows)+"B";
     }
-};
+};  
