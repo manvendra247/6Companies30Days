@@ -15,4 +15,4 @@ public:
         }
         return max_val;
     }
-};
+}; 
